@@ -1,0 +1,13 @@
+package com.example.demoPramod;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoPramodApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoPramodApplication.class, args);
+	}
+
+}
